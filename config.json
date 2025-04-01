@@ -1,0 +1,10 @@
+{
+    "twitch_token": "tu_oauth_token",
+    "channel": "nombre_canal",
+    "prefix": "!",
+    "alert_message": "¡Fuck detectado ({count}x)! Total: {total}",
+    "mic_index": null,
+    "energy_threshold": 300,
+    "dynamic_threshold": true,
+    "language": "en-US"
+}
